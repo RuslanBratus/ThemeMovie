@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThemeMovie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_movie">Search movie</string>
+    <string name="adults_text_18">18+</string>
+    <string name="company">Company:</string>
+    <string name="created_at">Created at:</string>
+    <string name="belongs_to_collection">Collection:</string>
+</resources>
